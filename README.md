@@ -45,6 +45,9 @@ class BankLoanAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 ![alt text](<Screenshot (48).png>)
+# ER DIAGRAM
+![BANK_LOAN 1](https://github.com/user-attachments/assets/0c305907-95a5-45c1-9c95-07ae43f6a776)
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
