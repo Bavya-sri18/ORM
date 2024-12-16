@@ -45,6 +45,9 @@ class BankLoanAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 ![alt text](<Screenshot (48).png>)
+
+![IMG-20241213-WA0016 1](https://github.com/user-attachments/assets/d1d8bc1d-3984-43dd-bdb5-bef4b8949de6)
+
 # ER DIAGRAM
 ![BANK_LOAN 1](https://github.com/user-attachments/assets/0c305907-95a5-45c1-9c95-07ae43f6a776)
 
